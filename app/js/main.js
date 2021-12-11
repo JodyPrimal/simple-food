@@ -1,3 +1,3 @@
-// $(function(){
-// $('body').hide()
-// }); 
+$(function(){
+
+var  mixer  = require ( 'category__content ' ) ;});

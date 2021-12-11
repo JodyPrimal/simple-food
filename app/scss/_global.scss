@@ -1,0 +1,20 @@
+
+
+body {
+  background-color: #F9FAFF;
+  color: $default;
+  @extend %rubik-400;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+button,a{
+  cursor: pointer;
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}

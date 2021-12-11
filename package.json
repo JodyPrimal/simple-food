@@ -21,6 +21,7 @@
     "styles": "^0.2.1"
   },
   "dependencies": {
-    "del": "^6.0.0"
+    "del": "^6.0.0",
+    "mixitup": "^3.3.1"
   }
 }

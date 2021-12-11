@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Rubik-Regular', 'Tahoma';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Rubik-Regular'),
+    url('../fonts/Rubik-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik-italic', 'Tahoma';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Rubik-italic'),
+    url('../fonts/Rubik-italic.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik-Medium', 'Tahoma';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Rubik-Medium'),
+    url('../fonts/Rubik-Medium.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik-Light', 'Tahoma';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Rubik-Light'),
+    url('../fonts/Rubik-Light.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik-Bold', 'Tahoma';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Rubik-Bold'),
+    url('../fonts/Rubik-Bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'OpenSans-Regular', 'Tahoma';
+  font-weight: 400;
+  font-style: normal;
+  src: local('OpenSans-Regular'),
+    url('../fonts/OpenSans-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-SemiBold', 'Tahoma';
+  font-weight: 600;
+  font-style: normal;
+  src: local('OpenSans-SemiBold'),
+    url('../fonts/OpenSans-SemiBold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold', 'Tahoma';
+  font-weight: 700;
+  font-style: normal;
+  src: local('OpenSans-Bold'),
+    url('../fonts/OpenSans-Bold.woff2') format('woff2');
+  font-display: swap;
+}
