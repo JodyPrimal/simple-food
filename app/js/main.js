@@ -1,3 +1,3 @@
 $(function(){
-
-var  mixer  = require ( 'category__content ' ) ;});
+  var mixer = mixitup('.category__content');
+})
