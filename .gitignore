@@ -2,7 +2,7 @@
 .idea/
 .idea/*
 .vscode
-*.sublime
+*.sublime*
 npm-debug.*
 dist/
 node_modules/
